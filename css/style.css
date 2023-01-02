@@ -10,6 +10,7 @@
 }
 
     #botonera ul li a{
+        background-color: rgba(221, 239, 254, 1);
         text-decoration: none;
         color: rgb(0,74, 173);
         font-size: 1.3em;
