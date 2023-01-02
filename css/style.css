@@ -59,21 +59,16 @@ p{
 
 
 .header{
-        width: 99%;
-        height: 20%;
-        margin: 0;
-        border: 0;
         display: flex;
         justify-content: space-between;
-        font-family: 'Noto Sans', sans-serif;
-        font-size: 2em;
         background-image: url(../images/fondo_header.png);
     }
         .header_p{
             padding-left: 1em;
             color:rgb(0, 74, 173);
-            align-self:center;
+            font-family: 'Noto Sans', sans-serif;
         }
+
 .btn-propuestas{
     background-color: rgb(240, 240, 240);
     color: rgb(0,74,173);
